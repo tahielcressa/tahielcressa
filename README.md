@@ -58,18 +58,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tahielcressa">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=tahielcressa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahielcressa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahielcressa&theme=tokyonight" alt="stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahielcressa&theme=tokyonight" alt="languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahielcressa&theme=tokyonight" alt="productive time" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahielcressa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahielcressa&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 </p>
 
 <!-- ==================== 04 projects ==================== -->
@@ -78,43 +75,33 @@
 
 ### 🌐 full_stack & web
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahielcressa&repo=LOS-MENUDOS&theme=tokyonight&hide_border=true" alt="LOS-MENUDOS" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahielcressa&repo=JuntApp&theme=tokyonight&hide_border=true" alt="JuntApp" />
-</p>
-
-> **LOS-MENUDOS** — Sistema full stack de operaciones mineras. API REST con **Spring Boot (Java 25)**, frontend **React + Vite + Tailwind** y cliente de escritorio **JavaFX**. Carga/validación de Excel y CSV, cruce contra catálogo de equipos, KPIs, reportes Excel/PDF y multi-tenant.
->
-> **JuntApp** — App para organizar juntadas y dividir gastos entre el grupo.
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| [**LOS-MENUDOS**](https://github.com/tahielcressa/LOS-MENUDOS) | ⛏️ Java · Spring Boot · React · JavaFX | Sistema full stack de operaciones mineras: carga/validación de Excel y CSV, cruce con catálogo de equipos, KPIs, reportes Excel/PDF y multi-tenant. |
+| [**JuntApp**](https://github.com/tahielcressa/JuntApp) | 🚀 JavaScript | Aplicación para organizar juntadas y dividir gastos entre el grupo. |
 
 ### 📱 mobile
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahielcressa&repo=MiResumen&theme=tokyonight&hide_border=true" alt="MiResumen" />
-</p>
-
-> **MiResumen** — App móvil para administrar de forma más eficaz los gastos personales y en grupo.
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| [**MiResumen**](https://github.com/tahielcressa/MiResumen) | 📱 JavaScript (móvil) | App para administrar de forma más eficaz los gastos personales y en grupo. |
 
 ### 🧪 qa_testing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahielcressa&repo=QA-Testing-DemoBlaze&theme=tokyonight&hide_border=true" alt="QA-Testing-DemoBlaze" />
-</p>
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| [**QA-Testing-DemoBlaze**](https://github.com/tahielcressa/QA-Testing-DemoBlaze) | 🧪 QA Manual | Casos de prueba manuales y reportes de bugs sobre DemoBlaze, estructurados para automatizar. |
 
-> **QA-Testing-DemoBlaze** — Casos de prueba manuales y reportes de bugs sobre la plataforma DemoBlaze, estructurados para automatizar.
-
-<!-- ==================== 05 trophies & snake ==================== -->
+<!-- ==================== 05 contributions ==================== -->
 
 ## 05 · contributions
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahielcressa&theme=onestar&no-frame=true&margin-w=8&column=4" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tahielcressa/tahielcressa/output/github-contribution-grid-snake.gif" alt="snake eating contributions" />
-</p>
+<details>
+  <summary>🐍 ver serpiente animada (requiere correr el workflow una vez)</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/tahielcressa/tahielcressa/output/github-contribution-grid-snake.gif" alt="snake eating contributions" />
+  </p>
+</details>
 
 <!-- ==================== 06 contact ==================== -->
 
@@ -140,5 +127,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22d3ee,100:0f172a&section=footer&reversal=true" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22d3ee,100:0f172a&section=footer&reversal=true" alt="footer" width="100%" />
 </p>
