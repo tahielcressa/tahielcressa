@@ -1,131 +1,180 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&fontSize=48&fontAlignY=36&color=0:0f172a,100:22d3ee&text=TAHIEL%20CRESSA&desc=full_stack%20%26%20qa%20developer&descAlignY=60&descAlign=50&animation=twinkling" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=32&fontSize=42&color=0:0f172a,50:0ea5e9,100:22d3ee&text=Tahiel%20Cressa&desc=Full%20Stack%20%26%20QA%20Developer&descAlignY=58&descSize=16&section=header&animation=twinkling" alt="header" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=700&color=39D353&center=true&vCenter=true&width=950&height=45&lines=$+whoami;tahiel_cressa+%E2%94%80%20full_stack_%26_qa_developer;spring_boot+%7C+react+%7C+node.js+%7C+python;building+reliable+digital+products" alt="typing animation" />
+  <a href="https://www.linkedin.com/in/tahiel-cressa-9344aa1b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Tahieljoseau">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:tahielcressa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/tahielcressa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://tahielcressa.github.io/CV-Tahiel-Cressa.pdf">
+    <img src="https://img.shields.io/badge/CV-Descargar-22d3ee?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0f172a" alt="Descargar CV"/>
+  </a>
 </div>
 
 <div align="center">
-
-[![STATUS: ONLINE](https://img.shields.io/badge/STATUS-ONLINE-39D353?style=for-the-badge)](https://github.com/tahielcressa)
-[![Location](https://img.shields.io/badge/LOCATION-C%C3%B3rdoba%2C%20Argentina-64748B?style=for-the-badge)](https://maps.google.com/?q=Cordoba,Argentina)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahiel-cressa-9344aa1b0/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tahieljoseau)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahielcressa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahielcressa)
-
-![Profile views](https://komarev.com/ghpvc/?username=tahielcressa&color=22d3ee&style=flat)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Desarrollo+de+software+de+full+stack;QA+y+automatizaci%C3%B3n+de+pruebas;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Construyendo+productos+confiables" alt="typing animation" />
 </div>
 
-<!-- ==================== 01 whoami ==================== -->
-
-## 01 · whoami
-
-```terminal
-┌─[tahiel@cressa]─[~/github]────────────────────────────
-│ $ whoami
-│ tahiel_cressa — Full Stack & QA Developer
-│
-│ $ cat profile.txt
-│ location : córdoba, argentina
-│ focus    : spring boot · react · node.js · qa / testing
-│ stack    : java · js/ts · python · sql · docker · git
-│ learning : azure cloud · microservices pattern
-│
-│ $ systemctl status passion.service
-│ ● active (running) — building reliable software
-│ $ _
-└───────────────────────────────────────────────────────
-```
-
-<!-- ==================== 02 skills.json ==================== -->
-
-## 02 · skills.json
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,python,html,css,mysql,postgres,sqlite,docker,postman,git,github,linux" alt="tech stack" />
-</p>
-
-<!-- ==================== 03 live_metrics ==================== -->
-
-## 03 · live_metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahielcressa&theme=tokyonight" alt="profile details" width="100%" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_C%C3%B3rdoba%2C_Argentina-slate?style=flat-square&label=%F0%9F%93%8D%20C%C3%B3rdoba" alt="location"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-22d3ee?style=flat-square" alt="status"/>
+  <img src="https://komarev.com/ghpvc/?username=tahielcressa&color=22d3ee&style=flat-square&label=Visitas" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahielcressa&theme=tokyonight" alt="stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahielcressa&theme=tokyonight" alt="languages" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahielcressa&theme=tokyonight" alt="productive time" />
+  <a href="#-sobre-mi">Sobre mí</a> ·
+  <a href="#-stack">Stack</a> ·
+  <a href="#-proyectos">Proyectos</a> ·
+  <a href="#-github-stats">Stats</a> ·
+  <a href="#-contacto">Contacto</a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy **Tahiel Cressa**, desarrollador full stack y QA con foco en construir **software confiable de punta a punta**: diseño, desarrollo, testing y automatización. Me gusta tanto armar la lógica del backend como romper el frontend buscándole los bugs — y después arreglarlos.
+
+| | |
+|---|---|
+| 📍 **Ubicación** | Córdoba, Argentina |
+| 🔭 **Enfoque** | Full Stack Development · QA & Test Automation |
+| 🛠 **Stack principal** | Java · Spring Boot · JavaScript / TypeScript · React · Node.js · Python |
+| 🧪 **QA** | Pruebas manuales, casos de prueba, reportes de bugs y bases para automatización |
+| 🌱 **Aprendiendo** | Microsoft Azure · Patrones de microservicios |
+| ✉️ **Email** | [tahielcressa@gmail.com](mailto:tahielcressa@gmail.com) |
+
+---
+
+## 🛠 Stack
+
+**Lenguajes & frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)
+
+**Bases de datos & herramientas**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 🚀 Proyectos
+
+### ⛏️ RockLogic — Gestión de operaciones mineras
+Sistema full stack para cargar datos de mina, validarlos, cruzarlos contra el catálogo de equipos y generar reportes. Incluye plataforma **web**, **escritorio JavaFX** y una **API** multitenant con roles y KPIs.
+
+[![Java](https://img.shields.io/badge/Java-25-ED8B00?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F?logo=spring&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](#)
+[![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?logo=tailwindcss&logoColor=black)](#)
+
+[→ Ver repositorio](https://github.com/tahielcressa/RockLogic)
+
+---
+
+### 💸 MiResumen — Asistente de finanzas personales
+Aplicación móvil que ayuda a tomar el control de las finanzas: presupuesto, gráficos de consumo, ahorro, **modo grupo/pareja** para gastos compartidos, tickets y ubicación de transacciones.
+
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+
+[→ Ver repositorio](https://github.com/tahielcressa/MiResumen)
+
+---
+
+### 🤝 JuntApp — Organizá juntadas y dividí gastos
+App móvil para dividir gastos de forma **proporcional y justa**: cada uno paga lo que consumió. Con calendario, mapas, fotos de tickets y control de deudas.
+
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+
+[→ Ver repositorio](https://github.com/tahielcressa/JuntApp)
+
+---
+
+### 🧪 QA Testing — DemoBlaze
+Suite de **casos de prueba manuales** y **reportes de bugs** sobre la tienda demo DemoBlaze, documentada y estructurada para servir de base a la automatización.
+
+[![QA](https://img.shields.io/badge/QA%20Manual-00C4FF?logo=bug%3Abusters&logoColor=white)](#)
+[![Testing](https://img.shields.io/badge/Testing-F74C00?logo=checkmarx&logoColor=white)](#)
+
+[→ Ver repositorio](https://github.com/tahielcressa/QA-Testing-DemoBlaze)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahielcressa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahielcressa&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahielcressa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=tahielcressa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<!-- ==================== 04 projects ==================== -->
-
-## 04 · projects/
-
-### 🌐 full_stack & web
-
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| [**LOS-MENUDOS**](https://github.com/tahielcressa/LOS-MENUDOS) | ⛏️ Java · Spring Boot · React · JavaFX | Sistema full stack de operaciones mineras: carga/validación de Excel y CSV, cruce con catálogo de equipos, KPIs, reportes Excel/PDF y multi-tenant. |
-| [**JuntApp**](https://github.com/tahielcressa/JuntApp) | 🚀 JavaScript | Aplicación para organizar juntadas y dividir gastos entre el grupo. |
-
-### 📱 mobile
-
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| [**MiResumen**](https://github.com/tahielcressa/MiResumen) | 📱 JavaScript (móvil) | App para administrar de forma más eficaz los gastos personales y en grupo. |
-
-### 🧪 qa_testing
-
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| [**QA-Testing-DemoBlaze**](https://github.com/tahielcressa/QA-Testing-DemoBlaze) | 🧪 QA Manual | Casos de prueba manuales y reportes de bugs sobre DemoBlaze, estructurados para automatizar. |
-
-<!-- ==================== 05 contributions ==================== -->
-
-## 05 · contributions
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahielcressa&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
-  <summary>🐍 ver serpiente animada (requiere correr el workflow una vez)</summary>
+  <summary>🐍 Ver serpiente animada (se genera con el workflow)</summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/tahielcressa/tahielcressa/output/github-contribution-grid-snake.gif" alt="snake eating contributions" />
+    <img src="https://raw.githubusercontent.com/tahielcressa/tahielcressa/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
   </p>
 </details>
 
-<!-- ==================== 06 contact ==================== -->
+---
 
-## 06 · contact
+## 📫 Contacto
 
-```terminal
-┌─[tahiel@cressa]─[~/github]────────────────────────────
-│ $ ping tahiel --info
-│ 📍 córdoba, argentina
-│ ✉️  tahielcressa@gmail.com
-│ 💼 linkedin.com/in/tahiel-cressa-9344aa1b0
-│ 🐦 x.com/Tahieljoseau
-│
-│ ✔ 0% packet loss — disponible para colaborar
-│ $ _
-└───────────────────────────────────────────────────────
-```
+¿Tenés una idea, un proyecto o una oportunidad? Hablemos.
 
 <div align="center">
-
-*compilado con ☕, Java y testing — © Tahiel Cressa*
-
+  <a href="https://www.linkedin.com/in/tahiel-cressa-9344aa1b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Tahieljoseau">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:tahielcressa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://tahielcressa.github.io/CV-Tahiel-Cressa.pdf">
+    <img src="https://img.shields.io/badge/Descargar%20CV-34D399?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:22d3ee,100:0f172a&section=footer&reversal=true" alt="footer" width="100%" />
-</p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:22d3ee,100:0f172a&section=footer&reversal=true" width="100%" alt="footer" />
+  <br/>
+  <sub>© Tahiel Cressa — Full Stack & QA Developer</sub>
+</div>
